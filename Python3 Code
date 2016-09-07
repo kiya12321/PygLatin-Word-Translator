@@ -1,3 +1,4 @@
+
 #Python 3
 
 print ("Welcome to this PygLatin Word Tanslator")
@@ -12,4 +13,4 @@ if len(original) > 0 and original.isalpha():
     print(new_word[1:len(new_word)])
 
 else:
-print ('empty')
+    print ('empty')
