@@ -1,7 +1,7 @@
 
 #Python 3
 
-print ("Welcome to this PygLatin Word Tanslator")
+print ("Welcome to this PygLatin Word Translator")
 pyg = ('ay')
 
 original = input('Enter a word: ')
